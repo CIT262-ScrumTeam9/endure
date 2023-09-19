@@ -1,5 +1,3 @@
-# This is my first repository on GitHub
-
 # Introduction
 
 My name is Ernest.  
@@ -16,3 +14,5 @@ I enjoy watching action movies, reading fiction books, hiking, cycling, and phot
 ## My major
 
 I am studying for a degree in Applied Technology at BYU-Idaho.
+
+Welcome to the Scrum Team 9!

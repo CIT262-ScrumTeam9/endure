@@ -1,22 +1,24 @@
 {
-  "name": "nodejsexample",
-  "version": "1.0.0",
-  "description": "My first NodeJS project",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"test\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CIT262-ScrumTeam9/endure.git"
-  },
-  "author": "Ernest Li",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/CIT262-ScrumTeam9/endure/issues"
-  },
-  "homepage": "https://github.com/CIT262-ScrumTeam9/endure#readme",
-  "keywords": [
-    "N"
-  ]
+  "Scripts": {
+    "name": "nodejsexample",
+    "version": "1.0.0",
+    "description": "My first NodeJS project",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"test\" && exit 1"
+     },
+    "repository": {
+      "type": "git",
+       "url": "git+https://github.com/CIT262-ScrumTeam9/endure.git"
+     },
+    "author": "Ernest Li",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/CIT262-ScrumTeam9/endure/issues"
+    },
+    "homepage": "https://github.com/CIT262-ScrumTeam9/endure#readme",
+    "keywords": [
+     "N"
+   ]
+  }
 }

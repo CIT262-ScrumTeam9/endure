@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
 
 export default function Login( props ) {
   const handlePress = (name) => {
-    alert(`Hello ${name}!`);
+    says:(`Hello ${name}`);
   };
   return(
       <View style={styles.container}>
